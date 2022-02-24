@@ -3,6 +3,14 @@
 
 A tiny tool to encode or decode hex data.
 
+## Install
+
+Your can download binary executor from the release page, or you can build it by yourself also.
+
+```
+$ make
+$ cp hex /usr/local/bin
+```
 
 ## Usage
 
